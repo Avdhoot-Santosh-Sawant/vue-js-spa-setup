@@ -1,0 +1,11 @@
+<script>
+export default {
+  name: "About",
+};
+</script>
+
+<template>
+  <div>
+    <h1>this is about page</h1>
+  </div>
+</template>
